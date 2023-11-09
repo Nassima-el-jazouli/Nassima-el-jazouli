@@ -34,7 +34,13 @@
 
 ## Always a student:
 
+- Keeping myself updated with React course, Namastey React by Akshay Saini.
 
+![Kritika's Github Stats](https://github-readme-stats.vercel.app/api?username=Nassima-el-jazouli&count_private=true&theme=dracula&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nassima-el-jazouli)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Nassima-el-jazouli)
 
 [linkedin]: https://www.linkedin.com/in/nassima-el-jazouli-58547b211/
 [github]: https://github.com/Nassima-el-jazouli
