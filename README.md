@@ -35,16 +35,16 @@
 ## Things that I'm currently diving into :
 
 🎯 Supervised Learning<br>
-🎯 Unsupervised Learning
-🎯 Reinforcement Learning
-🎯 Deep Learning
-🎯 Finite Mixture models et co-clustering
-🎯 Dimensionality Reduction
-🎯 Recommender Systems
-🎯 Text-mining et NLP
-🎯 Time series
-🎯 Big Data Analytics
-🎯 Data Engineering
+🎯 Unsupervised Learning<br>
+🎯 Reinforcement Learning<br>
+🎯 Deep Learning<br>
+🎯 Finite Mixture models et co-clustering<br>
+🎯 Dimensionality Reduction<br>
+🎯 Recommender Systems<br>
+🎯 Text-mining et NLP<br>
+🎯 Time series<br>
+🎯 Big Data Analytics<br>
+🎯 Data Engineering<br>
 
 ![Nassima's Github Stats](https://github-readme-stats.vercel.app/api?username=Nassima-el-jazouli&count_private=true&theme=dracula&show_icons=true)
 
