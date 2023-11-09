@@ -34,7 +34,7 @@
 
 ## Things that I'm currently diving into :
 
-🎯 Supervised Learning<br/>
+🎯 Supervised Learning<br>
 🎯 Unsupervised Learning
 🎯 Reinforcement Learning
 🎯 Deep Learning
