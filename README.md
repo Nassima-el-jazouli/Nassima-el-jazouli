@@ -14,6 +14,10 @@
   <img src="https://komarev.com/ghpvc/?username=nassima-el-jazouli&style=flat-square&color=blue" alt=""/>
 <br/>
 
+  💬 Ask me about ML/DL/Nlp/Time Series ans Big data  
+
+  📫 How to reach me **nassimaeljazouli1@gmail.com** 
+
 ## 🚀 Languages and Tools:
 <p align="left"> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
@@ -49,9 +53,4 @@
 🎯 Data Engineering<br>
 
 ![Nassima's Github Stats](https://github-readme-stats.vercel.app/api?username=Nassima-el-jazouli&count_private=true&theme=dracula&show_icons=true)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nassima-el-jazouli)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[linkedin]: https://www.linkedin.com/in/nassima-el-jazouli-58547b211/
-[github]: https://github.com/Nassima-el-jazouli
