@@ -6,10 +6,12 @@
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me on:
-<p align="left">
- 
-<a href="https://www.linkedin.com/in/nassima-el-jazouli-58547b211/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Nassima's Linkedin profile" height="30" width="40" /></a>
-</p>
+
+<a href="https://www.linkedin.com/in/nassima-el-jazouli-58547b211/">
+   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+<br>
+  <img src="https://komarev.com/ghpvc/?username=nassima-el-jazouli&style=flat-square&color=blue" alt=""/>
 <br/>
 
 ## 🚀 Languages and Tools:
