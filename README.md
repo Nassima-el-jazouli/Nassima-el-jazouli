@@ -1,20 +1,14 @@
-# <strong>Kritika Srivastava</strong>
+# <strong>Nassima EL JAZOULI</strong>
 
-##  Hi, I am a React/Frontend Developer 👩‍💻
+##  Hi, I am a Data Scientist Student 👩‍💻
 
-🔭 Highlights: Currently I am working as a full-time <strong>React/Frontend Developer</strong>. I am using Styled Components, React/Redux, TypeScript, StoryBook, CSS, Material UI5, Git, Gitlab, Figma & Jenkins.Apart from the above skills, I like to create applications using Tailwind CSS, NextJS 13, Nodejs, SASS and MongoDB too.
+🔭 Highlights: I am a recent <strong>graduate in Software and Intelligent Systems Engineering (LSI)</strong> and am currently pursuing a <strong>Master's in Machine Learning for Data Science (AMSD) at Paris Cité University</strong>. With a deep passion for the field of IT and emerging technologies, <strong>I am actively seeking an end-of-study internship in data science</strong>. This internship will mark the beginning of my professional journey, allowing me to take my first steps towards realizing my career goals.
 
-🌱 Extras: About to start B2.1 level <strong>German language</strong> Certification from Goethe-Institute Bangalore. I have completed A1, A2 and B1 level German courses successfully from Goethe.
-
-👯 I like to write about programming on my <strong>Tech Blog(DEV)</strong> & Twitter, attend <strong>Meet-ups & Conferences</strong> & meet like minded people. In my leisure hours, you will find me <strong>mentoring/teaching</strong> few beginners in Frontend Development.
-
-⚡ Fun fact: I am a huge <strong>writing enthusiast</strong>. I like to write Tech Blogs, Travel Blogs and read self-help books.Started my first Blog in 2011 even before when AI & Vlogs became the trend. Pursuing content-writing since school time. <strong>Creating websites</strong> and writing my own content on it is my another hobby.😉
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me on:
 <p align="left">
  
-<a href="https://twitter.com/kritikasri27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Kritika's Twitter profile" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/kritika-srivastava/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Kritika's Linkedin profile" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nassima-el-jazouli-58547b211/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Nassima's Linkedin profile" height="30" width="40" /></a>
 </p>
 <br/>
 
@@ -34,51 +28,13 @@
 </p>
 <br />
 
-## Tech Blog✏️:
-
-- [Dev](https://dev.to/kritika27): Write-ups on ReactJS/Frontend Development. <strong>2000+ Followers</strong> & counting.
-
-  ### My Top Blog Posts:
-
-  - [How to think while building web applications.](https://dev.to/kritika27/how-to-think-while-building-applications-13eh): This article was featured in the weekly "Must-Reads" of DEV and I was being awarded as weekly top React author.
-  - [React code structuring and best practices.](https://dev.to/kritika27/react-code-structuring-and-best-practices-3k7p): This article was featured in the React Trends.
-
-- [Blogspot](https://gdgallahabad.blogspot.com/): Written in the past as a Blogger and member of GDG Allahabad while pursuing Computer Science Engineering in college.
-  <br/>
-
-## Talks:
-
-- Presented a Talk in React Bangalore Meetup on 15th October 2022: How to Think while creating Apps in React-TypeScript.
-  <br/>
-
-## Events/Conference Updates:
-
-- Active member of React Bangalore Meetup.
-- Got an opportunity to be a part of React India Goa in September 2022.
-  <br/>
-
-## 2023 Events/Conferences:
-
-- JSConf India 2023
-- React Nexus India 2023: See you on 7th July in Bangalore.👋
-- React Berlin 2023
-  <br/>
-
 ## Open Source Contributions:
 
 - In progress.
 
 ## Always a student:
 
-- Keeping myself updated with React course, Namastey React by Akshay Saini.
 
-![Kritika's Github Stats](https://github-readme-stats.vercel.app/api?username=kritika27&count_private=true&theme=dracula&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kritika27)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=kritika27)
-
-[twitter]: https://twitter.com/kritikasri27
-[linkedin]: https://www.linkedin.com/in/kritika-srivastava
-[dev]: https://dev.to/kritika27
-[github]: https://github.com/kritika27
+[linkedin]: https://www.linkedin.com/in/nassima-el-jazouli-58547b211/
+[github]: https://github.com/Nassima-el-jazouli
