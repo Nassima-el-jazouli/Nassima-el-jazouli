@@ -32,15 +32,24 @@
 
 - In progress.
 
-## Always a student:
+## Things that I'm currently diving into :
 
-- Keeping myself updated with React course, Namastey React by Akshay Saini.
+🎯 Supervised Learning
+🎯 Unsupervised Learning
+🎯 Reinforcement Learning
+🎯 Deep Learning
+🎯 Finite Mixture models et co-clustering
+🎯 Dimensionality Reduction
+🎯 Recommender Systems
+🎯 Text-mining et NLP
+🎯 Time series
+🎯 Big Data Analytics
+🎯 Data Engineering
 
-![Kritika's Github Stats](https://github-readme-stats.vercel.app/api?username=Nassima-el-jazouli&count_private=true&theme=dracula&show_icons=true)
+![Nassima's Github Stats](https://github-readme-stats.vercel.app/api?username=Nassima-el-jazouli&count_private=true&theme=dracula&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nassima-el-jazouli)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Nassima-el-jazouli)
 
 [linkedin]: https://www.linkedin.com/in/nassima-el-jazouli-58547b211/
 [github]: https://github.com/Nassima-el-jazouli
