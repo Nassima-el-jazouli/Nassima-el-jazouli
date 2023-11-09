@@ -52,5 +52,6 @@
 🎯 Big Data Analytics<br>
 🎯 Data Engineering<br>
 
-![Nassima's Github Stats](https://github-readme-stats.vercel.app/api?username=Nassima-el-jazouli&count_private=true&theme=dracula&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nassima-el-jazouli)](https://github.com/anuraghazra/github-readme-stats)
+<img src="http://github-readme-streak-stats.herokuapp.com?user=Nassima-el-jazouli&theme=dark&hide_border=true&border_radius=8" /><br>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nassima-el-jazouli&show_icons=true&locale=en" alt="nassima el jazouli" />
+
